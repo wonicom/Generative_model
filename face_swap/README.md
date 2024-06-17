@@ -42,8 +42,6 @@ dst - https://github.com/wonicom/project1128/assets/123945441/664a64de-3982-4919
 src - https://github.com/wonicom/project1128/assets/123945441/1a51c9c2-2ecf-4bd6-a589-6d21778a71a7<br>
 해당 2개의 영상들을 input으로 사용합니다.<br>
 
-![KakaoTalk_20240124_023310812](https://github.com/wonicom/project1128/assets/123945441/b32189c2-7d95-4883-8326-850cbf14b98e)
-
 ### output
 
 https://github.com/wonicom/project1128/assets/123945441/4888a2ac-5df2-48f5-a53a-eeabcde838aa
